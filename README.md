@@ -7,3 +7,7 @@ Duplicates the selected GameObject(s) and sets them as its own immediate child.
 Keyboard Shortcut `Ctrl + Shift + D`
 
 This was originally going to also include Create Empty Child until I realized that's native to Unity halfway through.
+
+---
+### **[Download Here!](https://github.com/JustSleightly/DupeAsChild/releases)**
+---
