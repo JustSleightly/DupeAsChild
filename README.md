@@ -10,6 +10,6 @@ This was originally going to also include Create Empty Child until I realized th
 
 ---
 
-## **[Download Here!](https://github.com/JustSleightly/DupeAsChild/releases)**
+### **[Download Here!](https://github.com/JustSleightly/DupeAsChild/releases)**
 
 ---
